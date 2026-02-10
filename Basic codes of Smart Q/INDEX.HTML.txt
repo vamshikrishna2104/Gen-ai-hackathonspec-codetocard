@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>SmartQ Campus - Student</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <h1>SmartQ Campus – College Canteen</h1>
+  <p>Welcome, Student ID: 21XXX</p>
+
+  <div class="menu">
+    <div class="item">Veg Meal – ₹60</div>
+    <div class="item">Chicken Biryani – ₹120</div>
+    <div class="item">Tea – ₹10</div>
+  </div>
+
+  <button onclick="goToConfirm()">Proceed to Pre-Order</button>
+
+  <script src="script.js"></script>
+</body>
+</html>

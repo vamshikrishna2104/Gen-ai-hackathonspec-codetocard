@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Canteen Dashboard</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <h2>Canteen Dashboard</h2>
+
+  <ul>
+    <li>Order SQ1024 – Veg Meal, Tea – Preparing</li>
+    <li>Order SQ1025 – Biryani – Ready</li>
+  </ul>
+
+  <button onclick="goToRFID()">Simulate RFID Payment</button>
+
+  <script src="script.js"></script>
+</body>
+</html>

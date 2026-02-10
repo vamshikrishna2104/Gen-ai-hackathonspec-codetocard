@@ -1,0 +1,11 @@
+function goToConfirm() {
+  window.location.href = "confirm.html";
+}
+
+function goToCanteen() {
+  window.location.href = "canteen.html";
+}
+
+function goToRFID() {
+  window.location.href = "rfid.html";
+}

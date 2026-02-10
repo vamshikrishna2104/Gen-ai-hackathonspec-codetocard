@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>RFID Payment</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <h2>RFID Payment</h2>
+
+  <p>Tap your Student ID Card</p>
+
+  <button onclick="alert('Payment Successful! Offline transaction completed.')">
+    Tap RFID Card
+  </button>
+
+</body>
+</html>
